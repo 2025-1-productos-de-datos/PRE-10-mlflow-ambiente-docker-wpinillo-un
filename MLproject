@@ -1,7 +1,7 @@
 name: Proyecto de demostracion
 
 docker_env:
-    image:  jdvelasq/mlflow:example
+    image:  wpinillo/mlflow:example
     build_context: .
 
 entry_points:
